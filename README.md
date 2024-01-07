@@ -25,7 +25,7 @@ or you can add these lines to your `bitcoin.conf` file:
 ```
 rpcconnect=35.209.148.157
 rpcuser=a_plus_student
-rpcpassword=hunter2 getblockcount
+rpcpassword=hunter2
 ```
 
 ...and then execute `bitcoin-cli getblockcount` without extra options.
